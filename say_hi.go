@@ -1,5 +1,5 @@
 package gosayhi
 
-func SayHi(name string) string {
-	return "Hello " + name
+func SayHi(time, name string) string {
+	return "Hello " + name + ". Good " + time
 }
