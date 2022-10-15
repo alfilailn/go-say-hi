@@ -1,5 +1,5 @@
 package gosayhi
 
 func SayHi() string {
-	return "Hello theress"
+	return "Hello theress !!"
 }
